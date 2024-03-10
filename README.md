@@ -16,3 +16,5 @@ The component source code is located at Source/ProjectSolis/ActorComponents/Move
 * Supports uneven collision surfaces.
 * Supports animated root bone driven motion for root motion mechanics.
 * Supports multiple collision shapes (vertical capsule, horizontal capsule, box, sphere).
+
+The component implementation is not replicated for online multiplayer.
